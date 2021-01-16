@@ -5,4 +5,4 @@ This projects aims to bring some fun scenarios with 8 channels to your E-stim pl
 In the future a nice 3D printed case will be designed with room for a battery. Combined with the bluetooth and wifi capabilities of the board, this will effectively remove a bunch of wires from you setup.
 
 ## Features
-![Features](Hardware\Documentation\Drawing.png)
+![Features](/Hardware/Documentation/Drawing.png)
