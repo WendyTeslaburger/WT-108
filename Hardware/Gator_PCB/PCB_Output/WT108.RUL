@@ -1,5 +1,0 @@
-DRC Rules Export File for PCB: C:\Users\mxa\Documents\Private Documents\Projects\TENS\Gator\Hardware\Gator_PCB\WT108.PcbDoc
-RuleKind=Clearance|RuleName=Clearance_LV|Scope=Board|Minimum=7.87
-RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
-RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.91
-RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
